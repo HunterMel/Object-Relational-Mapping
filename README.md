@@ -24,6 +24,7 @@ Demo:
 
 https://drive.google.com/file/d/15rIaNmCQZIr5rWgW2awGryMp--sDas1R/view (Terminal)
 https://drive.google.com/file/d/1vB8sYQKHdjI_iyn6i3npiBnkZYIaWZip/view (Categories)
+https://drive.google.com/file/d/1IIxWOo6TJ-iu560iHojPSA0gdLUGQDYM/view (Products) 
 
 
 
