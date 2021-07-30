@@ -21,5 +21,9 @@ Mock Up:
 ![](images/mockup.png)
 
 Demo:
-https://drive.google.com/file/d/1vB8sYQKHdjI_iyn6i3npiBnkZYIaWZip/view
+
+https://drive.google.com/file/d/15rIaNmCQZIr5rWgW2awGryMp--sDas1R/view (Terminal)
+https://drive.google.com/file/d/1vB8sYQKHdjI_iyn6i3npiBnkZYIaWZip/view (Categories)
+
+
 
